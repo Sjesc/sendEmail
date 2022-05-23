@@ -6102,19 +6102,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yonaiker.ocando\\.nuget\\packages\\": {}
+    "C:\\Users\\silvino.escalona\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yonaiker.ocando\\proyectos\\EmailServices-Remesas\\EmailWorker\\EmailWorker.csproj",
+      "projectUniqueName": "C:\\Users\\silvino.escalona\\Documents\\Proyectos\\csharp\\sendEmail\\EmailWorker\\EmailWorker.csproj",
       "projectName": "EmailWorker",
-      "projectPath": "C:\\Users\\yonaiker.ocando\\proyectos\\EmailServices-Remesas\\EmailWorker\\EmailWorker.csproj",
-      "packagesPath": "C:\\Users\\yonaiker.ocando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yonaiker.ocando\\proyectos\\EmailServices-Remesas\\EmailWorker\\obj\\",
+      "projectPath": "C:\\Users\\silvino.escalona\\Documents\\Proyectos\\csharp\\sendEmail\\EmailWorker\\EmailWorker.csproj",
+      "packagesPath": "C:\\Users\\silvino.escalona\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\silvino.escalona\\Documents\\Proyectos\\csharp\\sendEmail\\EmailWorker\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yonaiker.ocando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\silvino.escalona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6172,7 +6176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
